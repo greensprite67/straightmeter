@@ -28,32 +28,34 @@ const gayArray = [
   { name: "grindset", value: 75 },
   { name: "mewing", value: 70 },
   { name: "mogging", value: 65 },
-  { name: "looksmaxxing", value: 60 },
+  { name: "looksmaxxing", value: 80 },
   { name: "base", value: 50 },
-  { name: "alpha", value: 40 },
+  { name: "alpha", value: 60 },
   { name: "skibidi", value: -10 },
   { name: "uwu", value: -50 },
-  { name: "femboy", value: -100 },
+  { name: "femboy", value: -80 },
   { name: ":3", value: -40 },
   { name: "nya", value: -30 },
   { name: "gay", value: -100 },
   { name: "lesbian", value: -100 },
   { name: "transgender", value: -100 },
   { name: "nonbinary", value: -100 },
+  { name: "master", value: -40 },
+  { name: "boi", value: -10 },
 ];
 
 const descriptionArray = [
   { min: -10000, max: -100, description: "EWW GAY GTFO 💀💀💀" },
   { min: -100, max: 0, description: "Ew bro is gay , not even SIGMA ❌" },
-  { min: 0, max: 10, description: "Bro is barely holding onto his gym membership 🤡" },
-  { min: 10, max: 30, description: "Bro is starting his mogging journey 🗿📈" },
-  { min: 30, max: 50, description: "Bro is a casual enjoyer of the grindset 💼🔥" },
-  { min: 50, max: 70, description: "Bro is straight as a steel beam. Respect. 🫡" },
-  { min: 70, max: 90, description: "Bro is definitely a Sigma. The phonk is getting louder 🎧🧔‍♂️" },
-  { min: 90, max: 120, description: "PURE GIGACHAD ENERGY. He doesn't find the gym, the gym finds him 🏛️💪" },
-  { min: 120, max: 300, description: "BRO IS SO STRAIGHT HE BENT THE SPACE-TIME CONTINUUM 🌌💥" },
-  { min: 300, max: 1000, description: "ULTRA SIGMA MALE: HE MOGS THE ENTIRE UNIVERSE 🗿🌌👑" },
-  { min: 1000, max: 10000, description: "FATHER. 🗿🗿🗿" }
+  { min: 0, max: 10, description: "Bro is barely holding onto his gym membership 🥀" },
+  { min: 10, max: 30, description: "Bro is starting his mogging journey 🤑" },
+  { min: 30, max: 50, description: "Bro is a casual enjoyer of the grindset 🔥" },
+  { min: 50, max: 70, description: "Bro is so straight he's playing aniphobia" },
+  { min: 70, max: 90, description: "Bro is definitely a sigma , the phonk is getting louder 🤑🤑🤑" },
+  { min: 90, max: 120, description: "PURE GIGACHAD ENERGY." },
+  { min: 120, max: 300, description: "BRO IS SO STRAIGHT HE BENT THE SPACE-TIME CONTINUUM 🔥🔥💥" },
+  { min: 300, max: 1000, description: "ULTRASIGMA MALE: HE MOGS THE ENTIRE UNIVERSE 🗿" },
+  { min: 1000, max: 10000, description: "VRO WTF" }
 ];
 
 
